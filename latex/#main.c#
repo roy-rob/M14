@@ -1,0 +1,14 @@
+
+//Killte sich kein
+
+#include <stdio.h>
+
+
+
+int main() {
+
+  printf("Hallo Weld\n");
+
+  
+
+}
